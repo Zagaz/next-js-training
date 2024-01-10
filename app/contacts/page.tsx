@@ -1,12 +1,9 @@
 import React from 'react'
 
 const page = () => {
-  return (<>
-    <div>
-      <h1>contacts</h1>
-      <a href="http://Contatos"></a>
-    </div>
-    </>)
+  return (
+      <h1>Contacts</h1>
+  )
 }
 
 export default page

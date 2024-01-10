@@ -23,7 +23,6 @@ export default function RootLayout({
           <Link href="/contacts">Contacts</Link>|
           <Link href="/services">Services</Link>|
           <Link href="/services/maintenance">Services/Maitenance</Link>
-
         </nav>
         
         {children}

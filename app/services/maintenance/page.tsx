@@ -1,8 +1,8 @@
 import React from 'react'
 
-function maintenance() {
+const maintenance = () => {
   return (
-    <div>maintenance</div>
+    <h1>Maintenance</h1>
   )
 }
 
